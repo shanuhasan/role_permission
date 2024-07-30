@@ -5,7 +5,7 @@
                 {{ __('Permission') }}
             </h2>
             <a href="{{ route('permission.create') }}"
-                class="bg-slate-700 text-sm rounded-md px-3 text-white py-4">Create</a>
+                class="bg-slate-700 text-sm rounded-md px-3 text-white py-2">Create</a>
         </div>
     </x-slot>
 
